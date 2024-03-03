@@ -316,7 +316,7 @@ grid-template-rows: repeat(3,1fr);
 
 .footer-title {
   color: var(--text-color-title);
-  text-shadow: var(--text-shadow);
+  text-shadow: var(--text-shadow-f);
   position: relative;
   align-self: center;
   display: flex;
@@ -477,8 +477,6 @@ p {
 
   .cards {
     margin-block-start: 50px;
-    display: flex;
-    gap: 10px;
   }
 
   .card__list-grid {
@@ -486,6 +484,10 @@ p {
     flex-direction: column;
     gap: 5px;
   }
+
+  .content-section-title {
+    margin-block-end: 10px;
+}
 
   .footer {
     margin-block-start: 40px;
