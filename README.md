@@ -1,1 +1,1 @@
-git@github.com:Pelageaa/slozhno-sosredotochitsya.git
+https://github.com/Pelageaa/slozhno-sosredotochitsya.git
