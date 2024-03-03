@@ -251,8 +251,7 @@
   object-position: center;
 }
 
-/*
-.cards {
+/* .cards {
   display: flex;
   flex-direction: column;
   margin-block-start: 80px;
@@ -487,7 +486,7 @@ p {
 
   .content-section-title {
     margin-block-end: 10px;
-}
+  }
 
   .footer {
     margin-block-start: 40px;
