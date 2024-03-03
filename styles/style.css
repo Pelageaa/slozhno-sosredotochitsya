@@ -2,8 +2,8 @@
 
 .page {
   /* сохраните в разметке и стилях класс page. На его основе работает скрипт. */
-  color: var(--description-color);
   font-family: var(--font-family-main), sans-serif;
+  color: var(--description-color);
   font-size: 18px;
   font-weight: 400;
   background-color: var(--bg-color);
