@@ -284,8 +284,8 @@
 }
 
 p {
-  color: var(--title-decor);
   font-family: "IBM Plex Mono";
+  color: var(--title-decor);
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
