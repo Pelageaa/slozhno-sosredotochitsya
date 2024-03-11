@@ -3,18 +3,21 @@
   и их переопределение под различные устройства
 */
 :root {
-  --font-family-main: "IBM Plex Mono";
+  --font-family-main: "IBM Plex Mono", sans-serif;
   --bg-color: #000028;
   --bg-image: url(../images/cover-image-dark.png);
   --text-color: #f1b2ce;
   --description-color: #353430;
   --header-button: #ff0070;
   --text-color-title: #db00ff;
-  --text-shadow: 4px 4px 0px #ff0070;
+  --text-shadow: 4px 4px 0px rgb(255, 0, 112);
   --rec-color: #ff0070;
   --accent-color: #ff0070;
   --section-title-color: #ff0070;
-  --text-shadow-a: 4px 4px 0px #ff0070;
+  --text-shadow-a: 4px 4px 0px rgb(255, 0, 112);
+  --text-shadow-f: 2px 2px 0px rgb(255, 0, 112);
+  --text-shadow-h: 4px 4px 0px rgb(255, 0, 112);
   --after-before-border: #ff0070;
   --outline: 1px solid #ff0070;
+  --hover-color: rgba(255, 0, 112, 0.4);
 }
