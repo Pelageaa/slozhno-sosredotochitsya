@@ -22,6 +22,8 @@
   --section-title-color: #353430;
   --text-shadow-f: 2px 2px 0px rgb(255, 141, 203);
   --text-shadow-a: 2px 2px 0px rgb(255, 0, 112);
+  --text-shadow-h: 4px 4px 0px rgb(255, 141, 203);
+
   --outline: 1px solid #353430;
   --after-before-border: #353430;
   --hover-color: rgba(50, 49, 45, 0.4);
@@ -41,6 +43,7 @@
     --accent-color: #ff8dcb;
     --section-title-color: #353430;
     --text-shadow-f: 2px 2px 0px rgb(255, 141, 203);
+    --text-shadow-h: 4px 4px 0px rgb(255, 141, 203);
     --text-shadow-a: 2px 2px 0px rgb(255, 0, 112);
     --outline: 1px solid #353430;
     --after-before-border: #353430;
