@@ -10,7 +10,7 @@
     чем стили в медиазапросе предпочтений пользователя
   */
   --font-family-main: "IBM Plex Mono", sans-serif;
-  --bg-color: #f5f5f5;
+  --bg-color: #FFF1F7;
   --text-color: #353430;
   --bg-image: url(../images/cover-image-light.png);
   --header-button: #353430;
@@ -21,8 +21,10 @@
   --accent-color: #ff8dcb;
   --section-title-color: #353430;
   --text-shadow-f: 2px 2px 0px rgb(255, 141, 203);
-  --text-shadow-a: 2px 2px 0px rgb(255, 0, 112);
+  --text-shadow-a: 2px 2px 0px #ff8dcb;
   --text-shadow-h: 4px 4px 0px rgb(255, 141, 203);
+  --text-shadow-footer: 2px 2px 0px rgb(255, 0, 112);
+  --border-bottom:  #353430;
 
   --outline: 1px solid #353430;
   --after-before-border: #353430;
@@ -32,7 +34,7 @@
 @media (prefers-color-scheme: light) {
   :root {
     --font-family-main: "IBM Plex Mono", sans-serif;
-    --bg-color: #f5f5f5;
+    --bg-color: #FFF1F7;
     --text-color: #353430;
     --bg-image: url(../images/cover-image-light.png);
     --header-button: #353430;
@@ -44,9 +46,11 @@
     --section-title-color: #353430;
     --text-shadow-f: 2px 2px 0px rgb(255, 141, 203);
     --text-shadow-h: 4px 4px 0px rgb(255, 141, 203);
-    --text-shadow-a: 2px 2px 0px rgb(255, 0, 112);
+    --text-shadow-a: 2px 2px 0px #ff8dcb;
+    --text-shadow-footer: 2px 2px 0px rgb(255, 0, 112);
     --outline: 1px solid #353430;
     --after-before-border: #353430;
+    --border-bottom:  #353430;
     --hover-color: rgba(50, 49, 45, 0.4);
   }
 }
